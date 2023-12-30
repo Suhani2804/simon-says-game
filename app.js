@@ -81,3 +81,6 @@ function reset(){
     userSeq=[];
     level=0;
 }
+
+//btn variable has been used in different functions but it is different variables only. 
+//We can do this because of function scope that is btn in a particular function is for that function only.
